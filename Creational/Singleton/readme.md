@@ -18,6 +18,10 @@ If your code has access to the Singleton class, then it’s able to call the Sin
 The government is an excellent example of the Singleton pattern. A country can have only one official government. Regardless of the personal identities of the individuals who form governments, the title, “The Government of X”, is a global point of access that identifies the group of people in charge.
 <br/>
 
+### Pros and Cons
+![chrome_th7LMgrlc3](https://user-images.githubusercontent.com/80080241/225833231-5917de95-38d2-4d16-a16d-7faed159e76c.png)
+
+
 ### Code Explanation in PYTHON
 This code implements the `Singleton` design pattern in Python, which ensures that there is only one instance of a class in a program at any given time.
 
