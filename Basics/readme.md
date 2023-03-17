@@ -1,4 +1,4 @@
-## <font color="#6712A2">Design Patterns Concepts</font>
+## Design Patterns Concepts
 #### Encapsulation:
 The key features of encapsulation are as follows:
     <li>An object's behavior is kept hidden from the outside world or objects keep their state information private.
@@ -27,8 +27,14 @@ Composition refers to the following points:
 <li>It is a way to combine objects or classes into more complex data structures or software implementations
 <li>In composition, an object is used to call member functions in other modules thereby making base functionality available across modules without inheritance
 
-## <font color="#6712A2">Object Oriented Design Principles</font>
-- a1
-- a2
-- a3
-- a4
+## Object Oriented Design Principles
+***The Open/Close Principle:*** 
+It states that classes or objects and methods should be open for Extension but closed for Modifications<br/>
+***The Inversion of Control Principle:***
+it states that High Level Modules shouldn't be dependent on Low Level modules;they should both be dependent on `abstraction`.Details should depend on abstraction and not the other way round.<br/>
+***The Interface Segregation Principle:***
+It states Clients should not be forced to depend on interfaces they don't use.<br/>
+***The Single Responsibility Principle:***
+it states a Class should have only one reason to change.<br/>
+***The Subsitution Principle:***
+It states the derived class should completely substitute the base class.<br/>
